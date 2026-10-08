@@ -5,5 +5,5 @@ def test_calculate_total_mass():
     result = calculate_total_mass(500., 250.5)
     
     # This assertion will fail! 
-    # pytest will output: E   AssertionError: assert '750' == 750
+    # pytest will output: E   AssertionError: assert 750 == 750.5
     assert result == 750.5
