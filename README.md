@@ -4,7 +4,7 @@ Introduction to unit testing with pytest
 
 To run the examples:
 
-`git clone git@github.com:PhilJCarter/unit_testing_intro.git`
+`git clone git@github.com:astro-group-bristol/unit_testing_intro.git`
 
 `cd unit_testing_intro`
 
